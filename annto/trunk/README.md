@@ -11,4 +11,4 @@
 
 
 ### 小工具
-#### MAC地址查询工具 下载 64位 [[zip]](https://shh1.github.io/annto/MAC地址查询工具.zip) [[exe]](./MAC地址查询工具.exe) 32位 [[zip]](./MAC地址查询工具[兼容版].zip) [[exe]](./MAC地址查询工具[兼容版].exe)
+#### MAC地址查询工具 下载 64位 [[zip]](https://shh1.github.io/annto/MAC地址查询工具.zip) [[exe]](https://shh1.github.io/annto/MAC地址查询工具.exe) 32位 [[zip]](https://shh1.github.io/annto/MAC地址查询工具[兼容版].zip) [[exe]](https://shh1.github.io/annto/MAC地址查询工具[兼容版].exe)
